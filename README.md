@@ -32,4 +32,6 @@ Mac版本安装后请右键打开，而且需要打开两次确认验证
   ![游戏画面2](https://github.com/electricats/2019game/blob/master/223.png?raw=true)    
   
   ## 四、兑换奖励
-  当你按照游戏的规则收集齐全部徽章后，可以截图发送给老师索取小礼物哟！老师将会在下学期开学时将你的礼物带给你
+  当你按照游戏的规则收集齐全部徽章后，可以按ESC进入道具菜单截图/拍照发送给老师索取小礼物哟！老师将会在下学期开学时将你的礼物带给你  
+  
+  ![截图样例](https://github.com/electricats/2019game/blob/master/240411576262332_.pic_hd.jpg?raw=true)
