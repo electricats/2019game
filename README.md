@@ -1,4 +1,7 @@
 # 2019 Electricats Treasure Hunt 电荷猫夺宝游戏介绍
+
+![](https://github.com/electricats/2019game/blob/master/electricatsBackground.png?raw=true)
+
 ## 一、游戏介绍
 首先感谢大家一直以来对于电荷猫创客教育的支持！  
 在2019圣诞节到来之际，电荷猫的老师们特地为大家准备了一个惊喜！  
