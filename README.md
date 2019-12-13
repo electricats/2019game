@@ -15,8 +15,10 @@
 
 Mac版本安装后请右键打开，而且需要打开两次确认验证  
 
-![右键打开](https://github.com/electricats/2019game/blob/master/223.jpg?raw=true)
-![点击取消](https://github.com/electricats/2019game/blob/master/124.jpg?raw=true)
+![右键打开](https://github.com/electricats/2019game/blob/master/223.jpg?raw=true)  
+
+![点击取消](https://github.com/electricats/2019game/blob/master/124.jpg?raw=true)  
+
 ![二次确认](https://github.com/electricats/2019game/blob/master/333.jpg?raw=true)
 
 
