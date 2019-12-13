@@ -6,7 +6,8 @@
 ## 二、参与方式
 首先说明一下游戏的参与方式，你可以通过点击以下链接在线参与，亦可通过百度云盘下载至自己电脑（建议下载本地玩，因为在线版没声音）  
 >[点我在线游戏](https://electricats.github.io/2019game/)  
->或者在这里下载：链接:https://pan.baidu.com/s/1MjHcL95GsLoEuqnAQF6jbg  密码:hj0n  
+
+>或者在这里下载：链接:https://pan.baidu.com/s/1qJ4ux0QJGqm1v47UaXU-LA  密码:wn9y 
 
 在线加载时可能会出现提示诸如Missing Font等错误代码，属于尚未加载完成，请耐心等待即可  
 
