@@ -1,20 +1,20 @@
 [
 null,
-{"id":1,"expanded":false,"name":"学校","order":1,"parentId":0,"scrollX":1023,"scrollY":1257.75},
-{"id":2,"expanded":true,"name":"学校 走廊 悟空老师关卡","order":2,"parentId":0,"scrollX":1068,"scrollY":458.57142857142856},
+{"id":1,"expanded":false,"name":"学校","order":1,"parentId":0,"scrollX":987,"scrollY":1323.75},
+{"id":2,"expanded":true,"name":"学校 走廊 悟空老师关卡","order":2,"parentId":0,"scrollX":963,"scrollY":596.25},
 {"id":3,"expanded":false,"name":"学校 教室","order":5,"parentId":7,"scrollX":957,"scrollY":608.25},
-{"id":4,"expanded":false,"name":"办公室1F","order":11,"parentId":17,"scrollX":838.2857142857142,"scrollY":967.7142857142857},
+{"id":4,"expanded":false,"name":"办公室1F","order":11,"parentId":17,"scrollX":945,"scrollY":831.75},
 {"id":5,"expanded":false,"name":"公园","order":3,"parentId":2,"scrollX":957,"scrollY":608.25},
 null,
-{"id":7,"expanded":true,"name":"学校 走廊2 守城老师关卡","order":4,"parentId":0,"scrollX":987.4285714285713,"scrollY":458.57142857142856},
-{"id":8,"expanded":true,"name":"计算机机房 林老师关卡","order":6,"parentId":0,"scrollX":1066.909090909091,"scrollY":838.909090909091},
+{"id":7,"expanded":true,"name":"学校 走廊2 守城老师关卡","order":4,"parentId":0,"scrollX":957,"scrollY":596.25},
+{"id":8,"expanded":true,"name":"计算机机房 林老师关卡","order":6,"parentId":0,"scrollX":945,"scrollY":831.75},
 null,
 {"id":10,"expanded":true,"name":"城堡3F 结局地图","order":12,"parentId":0,"scrollX":975,"scrollY":695.25},
 null,
 null,
 null,
 {"id":14,"expanded":false,"name":"迷幻的森林","order":7,"parentId":8,"scrollX":1066.5,"scrollY":818.25},
-{"id":15,"expanded":false,"name":"森林城镇","order":8,"parentId":8,"scrollX":1007.9999999999999,"scrollY":458.57142857142856},
-{"id":16,"expanded":true,"name":"计算机机房 林老师关卡2","order":9,"parentId":8,"scrollX":945,"scrollY":818.25},
-{"id":17,"expanded":true,"name":"空中都市 拜老师关卡","order":10,"parentId":0,"scrollX":987.4285714285713,"scrollY":1735.7142857142856}
+{"id":15,"expanded":false,"name":"森林城镇","order":8,"parentId":8,"scrollX":945,"scrollY":1323.75},
+{"id":16,"expanded":true,"name":"计算机机房 林老师关卡2","order":9,"parentId":8,"scrollX":945,"scrollY":831.75},
+{"id":17,"expanded":true,"name":"空中都市 拜老师关卡","order":10,"parentId":0,"scrollX":945,"scrollY":1802.25}
 ]
